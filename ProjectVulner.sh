@@ -1,5 +1,4 @@
 #/bin/bash
-#Lim Hian Kok (S17) - CFC 2407 - James Lim
 
 #	This function updates and upgrades the current system to the latest version.
 function updateupgrade ()
